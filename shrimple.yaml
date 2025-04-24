@@ -31,6 +31,9 @@ starters:
   - stroke: ^
     mask: ^
     definition: "{^^}"
+  - stroke: ^+
+    mask: ^+
+    definition: "{}{-|}"
 
 # Translations can be customized by adjusting the list below.
 # The letters are processed in top down priority, with order being a number
